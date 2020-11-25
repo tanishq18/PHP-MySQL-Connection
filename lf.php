@@ -1,9 +1,5 @@
 <html>
 
-<head>
-<title>17BCE0343 CSE3002 LAB FAT</title>
-</head>
-
 <body>
 
 <?php
